@@ -1,6 +1,17 @@
 # Ehthereum Blockchian Wallet
 
-## Web based wallet for mock dai stable coin
+## Deployed Link: https://blockchain-wallet.netlify.app/
+
+![dai](./images/719.png)
+
+## Technology Used
+
+- React
+- Nodejs
+- Truffle
+- Ganashe
+- Openzepplin
+- Web3
 
 ## Installation
 
